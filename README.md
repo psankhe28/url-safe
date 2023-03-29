@@ -8,12 +8,12 @@ UrlSafe
 
 </div>
 
-## Intro & Motivation
+## Intro 
 
 **UrlSafe is a bookmark + archive manager to collect, and save websites for offline use.**
 
 The objective is to have a self-hosted place to keep useful links in one place, and since useful links can go away 
-(see the inevitability of [Link Rot](https://www.howtogeek.com/786227/what-is-link-rot-and-how-does-it-threaten-the-web/)). Along with this, it helps in arranging the links according to collection and tags for better uxer experience.
+(see the inevitability of [Link Rot](https://www.howtogeek.com/786227/what-is-link-rot-and-how-does-it-threaten-the-web/)). Along with this, it helps in arranging the links according to collection and tags for better user experience.
 
 ## Features
 
